@@ -1,11 +1,13 @@
-**Data Exploration of COVID-19 Dataset  using using SQL **
+Data Exploration of COVID-19 Dataset  using using SQL 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 COVID-19 Data Exploration Global using SQL
 
-**Skills used: **Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills Used :** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Data Source :** John Hopkinson University
+**Data Source :**  John Hopkinson University
 
-**Tool Used :** MS-SQL
+**Tool Used :**  MS-SQL
 
 
